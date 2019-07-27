@@ -1,0 +1,5 @@
+# For now exclude part files
+01_cpplanguage.md
+02_stlcontainers.md
+03_stlalgorithms.md
+04_cppmisc.md
